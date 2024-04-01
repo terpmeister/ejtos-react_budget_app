@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.button-inc {
+    border: none;
+    background: none;
+    color: green;
+}
+
+.button-dec {
+    border: none;
+    background: none;
+    color: red;
+}
